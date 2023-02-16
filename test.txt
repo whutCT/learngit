@@ -2,3 +2,5 @@ git test
 git is greate
 Creating a new branch 真快
 Creating a new branch is quick and simple
+new test
+
